@@ -1,0 +1,3 @@
+Python developer with experience in React, JavaScript, and SQL.
+Built REST APIs and worked with MongoDB databases.
+Familiar with Git, Docker, and cloud deployment.

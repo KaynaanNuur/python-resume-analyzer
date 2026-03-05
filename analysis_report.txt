@@ -1,0 +1,16 @@
+
+Resume Match Score: 60.00%
+
+Matching Skills:
+apis, cloud, developer, docker, experience, git, python, react, sql
+
+Missing Skills:
+aws, knowledge, looking, plus, preferred, technologies
+
+Top Resume Skills
+-----------------
+python (1)
+developer (1)
+experience (1)
+react (1)
+javascript (1)
